@@ -27,3 +27,14 @@ export SDKMAN_DIR="$HOME/.sdkman"
 sdk env install || true
 sdk env
 ```
+
+5. Then revoke the old permissions by running:
+```bash
+direnv deny
+```
+
+6. Then, you need to grant permission to execute the `.envrc` file.
+To do this, run the following command:
+```bash
+direnv allow
+```
