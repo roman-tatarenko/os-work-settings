@@ -1,7 +1,3 @@
-**Attention!** The installation of the 'pyenv' package is performed automatically in the 'shell-configuration.sh' script.
-**So**, proceed directly to the section "Installing a Python Version".
-
-
 # Installing Python using the "pyenv" package
 
 To conveniently manage Python versions, it is recommended to use the **"pyenv"** package.  

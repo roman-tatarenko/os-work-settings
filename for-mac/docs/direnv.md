@@ -1,6 +1,3 @@
-**Attention!** The installation of the 'direnv' package is performed automatically in the 'shell-configuration.sh' script.
-
-
 ## Installing "direnv"
 First, you need to install the package manager "Homebrew."
 After that, install the "direnv" package by running the following command:
